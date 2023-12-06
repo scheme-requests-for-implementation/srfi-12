@@ -1,3 +1,10 @@
+# SPDX-FileCopyrightText: 1999 Marc Feeley
+# SPDX-FileCopyrightText: 1999 Matthew Flatt
+# SPDX-FileCopyrightText: 1999 R. Kent Dybvig
+# SPDX-FileCopyrightText: 1999 William D Clinger <will@ccs.neu.edu>
+#
+# SPDX-License-Identifier: MIT
+
 * SRFI 12: Exception Handling
 
 ** by William Clinger, R. Kent Dybvig, Matthew Flatt, and Marc Feeley
